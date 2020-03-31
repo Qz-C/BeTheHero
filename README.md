@@ -1,4 +1,4 @@
-### ´BE THE HERO´
+### BE THE HERO´
 
 ### BackEnd
 
@@ -11,3 +11,4 @@
 ### Mobile Version
 
 - [ ] in construction 
+
