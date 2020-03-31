@@ -1,9 +1,9 @@
 import React from 'react';
-import Login from './pages/Login'
+import Routes from './routes';
 import './global.css'
 
 const App = () => (
-  <Login/> 
+  <Routes/> 
 );
 
 export default App;
