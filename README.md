@@ -1,13 +1,13 @@
-# BE THE HERO
+### ´BE THE HERO´
 
-## BackEnd
+### BackEnd
 
-# finished
+- [x] finished
 
-## FrontEnd
+### FrontEnd
 
-# in construction
+- [ ] in construction
 
-## Mobile Version
+### Mobile Version
 
-# in construction 
+- [ ] in construction 
