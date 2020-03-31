@@ -1,4 +1,4 @@
-### ´BE THE HERO´
+### BE THE HERO
 
 ### BackEnd
 
