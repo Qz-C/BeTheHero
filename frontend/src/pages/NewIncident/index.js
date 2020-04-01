@@ -30,6 +30,7 @@ const NewIncident = () => {
             value
         }
 
+        
         console.log(data);
 
         try{
